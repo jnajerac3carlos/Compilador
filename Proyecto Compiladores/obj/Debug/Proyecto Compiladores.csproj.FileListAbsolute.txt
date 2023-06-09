@@ -1,0 +1,75 @@
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe.config
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.pdb
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.FormMenuPrincipal.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.exe
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.pdb
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FastColoredTextBox.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FastColoredTextBox.xml
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CopyComplete
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.xml
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.ImportContent.resources
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\success_icon.ico
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\save_guardar_icon.png
+C:\Users\rodri\Documents\GitHub\Compiladores\Proyecto Compiladores\Proyecto\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\error_icon.ico
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\error_icon.ico
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\save_guardar_icon.png
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\success_icon.ico
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe.config
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.pdb
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FastColoredTextBox.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\System.CodeDom.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.FormMenuPrincipal.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.ImportContent.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.exe
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.pdb
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.exe.manifest
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\Proyecto Compiladores.application
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.exe.manifest
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.application
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Debug\Proyecto Compiladores.exe.config
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FParsec.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FParsecCS.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\MathNet.Numerics.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\MathNet.Symbolics.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\OxyPlot.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FParsec.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FParsecCS.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\MathNet.Numerics.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\OxyPlot.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Debug\zh-Hant\FSharp.Core.resources.dll

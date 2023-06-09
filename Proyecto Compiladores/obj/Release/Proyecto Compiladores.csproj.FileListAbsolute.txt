@@ -1,0 +1,25 @@
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\error_icon.ico
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\save_guardar_icon.png
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\success_icon.ico
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\Proyecto Compiladores.exe.config
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\Proyecto Compiladores.exe.manifest
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\Proyecto Compiladores.application
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\Proyecto Compiladores.exe
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\Proyecto Compiladores.pdb
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\FastColoredTextBox.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\System.CodeDom.dll
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\FastColoredTextBox.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\bin\Release\System.CodeDom.xml
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto_Compiladores.FormMenuPrincipal.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto_Compiladores.ImportContent.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto_Compiladores.Properties.Resources.resources
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.exe.manifest
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.application
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.exe
+C:\Users\Usuario\Documents\Proyecto Compiladores\Proyecto Compiladores\Proyecto Compiladores\obj\Release\Proyecto Compiladores.pdb

@@ -1,0 +1,4 @@
+Las Raices de la ecuacion son:  1.00, -3.00
+Las Raices de la ecuacion son:  6.00,  6.00
+Las Raices de la ecuacion son:  3.00,  2.00
+La Raiz de la Ecuacion Lineal es: -1.50
